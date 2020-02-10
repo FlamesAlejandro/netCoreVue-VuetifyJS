@@ -1,0 +1,43 @@
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.deps.json
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.dll
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.csprojAssemblyReference.cache
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.csproj.CoreCompileInputs.cache
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.AssemblyInfoInputs.cache
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.AssemblyInfo.cs
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.runtimeconfig.json
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.runtimeconfig.dev.json
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.pdb
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.dll
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.pdb
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.deps.json
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.runtimeconfig.json
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.runtimeconfig.dev.json
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.dll
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.pdb
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.csprojAssemblyReference.cache
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.csproj.CoreCompileInputs.cache
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.AssemblyInfoInputs.cache
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.AssemblyInfo.cs
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.dll
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.pdb
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.deps.json
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.runtimeconfig.json
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.runtimeconfig.dev.json
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.dll
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.pdb
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.csprojAssemblyReference.cache
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.csproj.CoreCompileInputs.cache
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.AssemblyInfoInputs.cache
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.AssemblyInfo.cs
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.dll
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.pdb
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.deps.json
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.runtimeconfig.json
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.runtimeconfig.dev.json
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.dll
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.pdb
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.csprojAssemblyReference.cache
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.AssemblyInfoInputs.cache
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.AssemblyInfo.cs
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.dll
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Entidades\obj\Debug\netcoreapp2.1\Sistema_Curso.Entidades.pdb

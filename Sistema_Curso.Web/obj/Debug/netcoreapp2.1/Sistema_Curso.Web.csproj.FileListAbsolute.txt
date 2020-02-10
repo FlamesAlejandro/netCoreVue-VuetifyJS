@@ -1,0 +1,96 @@
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Datos.dll
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.dll
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.csprojAssemblyReference.cache
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.csproj.CoreCompileInputs.cache
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.RazorAssemblyInfo.cache
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.RazorAssemblyInfo.cs
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.AssemblyInfoInputs.cache
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.AssemblyInfo.cs
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.RazorTargetAssemblyInfo.cache
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.deps.json
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.runtimeconfig.json
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.runtimeconfig.dev.json
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.dll
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.pdb
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Datos.pdb
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.pdb
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.csproj.CopyComplete
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.dll
+E:\Proyectos Informatica\Asp.Net Core\Sistena_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.pdb
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.deps.json
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.runtimeconfig.json
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.runtimeconfig.dev.json
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.dll
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.pdb
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Datos.dll
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.dll
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Datos.pdb
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.pdb
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.csprojAssemblyReference.cache
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.csproj.CoreCompileInputs.cache
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.RazorAssemblyInfo.cache
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.RazorAssemblyInfo.cs
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.AssemblyInfoInputs.cache
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.AssemblyInfo.cs
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.RazorTargetAssemblyInfo.cache
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.csproj.CopyComplete
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.dll
+E:\Proyectos Informatica\Asp.Net Core\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.pdb
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.deps.json
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.runtimeconfig.json
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.runtimeconfig.dev.json
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.dll
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.pdb
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Datos.dll
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.dll
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Datos.pdb
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.pdb
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.csprojAssemblyReference.cache
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.csproj.CoreCompileInputs.cache
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.RazorAssemblyInfo.cache
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.RazorAssemblyInfo.cs
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.AssemblyInfoInputs.cache
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.AssemblyInfo.cs
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.RazorTargetAssemblyInfo.cache
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.csproj.CopyComplete
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.dll
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.pdb
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.Views.dll
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.Views.pdb
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.TagHelpers.input.cache
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.TagHelpers.output.cache
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.RazorCoreGenerate.cache
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.RazorTargetAssemblyInfo.cs
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.Views.pdb
+E:\Proyectos Informatica\Asp.Net Core\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.deps.json
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.runtimeconfig.json
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.runtimeconfig.dev.json
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.dll
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.pdb
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.Views.dll
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Web.Views.pdb
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Datos.dll
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.dll
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Datos.pdb
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\bin\Debug\netcoreapp2.1\Sistema_Curso.Entidades.pdb
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.csprojAssemblyReference.cache
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.RazorAssemblyInfo.cache
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.RazorAssemblyInfo.cs
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.AssemblyInfoInputs.cache
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.AssemblyInfo.cs
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.TagHelpers.input.cache
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.TagHelpers.output.cache
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.RazorCoreGenerate.cache
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.RazorTargetAssemblyInfo.cache
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.RazorTargetAssemblyInfo.cs
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.Views.pdb
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.csproj.CopyComplete
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.dll
+E:\Proyectos Informatica\Asp.Net Core\VUE JS CORE\en conjunto\Sistema_Curso\Sistema_Curso.Web\obj\Debug\netcoreapp2.1\Sistema_Curso.Web.pdb
